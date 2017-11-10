@@ -1,2 +1,3 @@
 let currentUser = 'Wali'
-const welcomeMessage = 'Welcome to Flatbook'
+const welcomeMessage = 'Welcome to Flatbook,'
+
